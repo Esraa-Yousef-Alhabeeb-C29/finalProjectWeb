@@ -1,0 +1,80 @@
+body {
+    text-align: center;
+    background-color: #fca311;
+    font-family: 'Harmattan', sans-serif;
+  }
+  
+.boxs{
+    display: flex;
+    justify-content: space-around;                          
+}
+.boxs2{
+  display: flex;
+  justify-content: space-around;                          
+}
+.boxs3{
+  display: flex;
+  justify-content: space-around;                          
+}
+.cardcenter {  
+  width: 400px;
+  height: 500px;
+  background-color: white;
+  box-shadow:  5px 10px #888888;
+  border-radius: 12px;
+  margin: auto;
+  position: absolute;
+  margin-top: 20px;
+
+}
+  .cardcenter2 {
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    box-shadow:  5px 10px #888888;
+    border-radius: 12px;
+    margin: auto;
+    position: absolute;
+    margin-right: 10px;
+    margin-top: 600px;
+  }
+  .cardcenter3 {
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    box-shadow:  5px 10px #888888;
+    border-radius: 12px;
+    margin: auto;
+    position: absolute;
+    margin-right: 10px;
+    margin-top: 1200px;
+    margin-bottom: 50px;
+  }
+  
+  img {
+    
+    width: 120px;
+    height: 120px;
+    margin-top: 20px;
+    box-shadow:  5px 10px #0000001e;
+    border-radius: 50%;
+  }
+  
+  ul {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    list-style-type: none;
+  }
+  
+  
+  .back-btn{
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    width: 60px;
+    padding: 10px;
+    margin-left: 20px;
+
+}

@@ -1,0 +1,31 @@
+body{
+    background-color: #fca311;
+    
+}
+.back-btn{
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    width: 60px;
+    padding: 10px;
+    margin-left: 20px;
+
+}
+h1{
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    font-family: 'Harmattan', sans-serif;
+ }
+ img{
+    
+     height: 260px;
+     width: 260px;
+     border-radius: 10px;
+ }
+ .box{
+    padding-top: 90px;
+     display: flex;
+     justify-content: space-around;
+ }

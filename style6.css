@@ -1,0 +1,58 @@
+body{
+    background-color: #fca311;
+
+}
+img{
+    height: 120px;
+    width: 120px;
+}
+h1{
+    display: inline-flex;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-family: 'Harmattan', sans-serif;
+    background-color: rgba(0, 0, 0, 0.39);
+    margin-left:550px;
+    border-radius: 30px;
+ }
+ .back-btn{
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    width: 60px;
+    padding: 10px;
+    margin-left: 20px;
+   
+}
+
+
+  .cardcenter {  
+    width: 700px;
+    height: 700px;
+    background-color: rgba(250, 240, 240, 0.212);
+    border-radius: 12px;
+    margin: auto;
+    position: absolute;
+    margin-top: 20px;
+    left: 27%;
+    margin-bottom: 40px;
+  
+  }
+  ul {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    list-style-type: none;
+  }
+  ul li {
+    font-size: 30px;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    margin-left: 150px;
+    font-family: 'Harmattan', sans-serif;
+  }
