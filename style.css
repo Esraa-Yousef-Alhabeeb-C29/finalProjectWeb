@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-   
 }
 
 
@@ -20,7 +19,6 @@ body{
     width: 100%;
     display: flex;
     justify-content: center;
-    
   }
   .navbar {
     background-color: rgba(0, 0, 0, 0.685);
@@ -33,7 +31,7 @@ body{
     text-decoration: none;
   }
   .head-a:hover{
-    color: #fca311;
+    color: #f0a938;
   }
   .title {
     text-align: center;
@@ -48,8 +46,7 @@ body{
      margin-left: 740px;
       height: 50px;
       width: 50px;
-      border-radius: 50%;
-   
+     border-radius: 50%;
   }
   .boxs{
     display: flex;
@@ -68,8 +65,8 @@ body{
     overflow: hidden;
     transition: 0.5s;
     background: center no-repeat;
-    background-color: #fca311;
-   border:  1px solid  gray; 
+    background-color: #f0a938;;
+   border:  1px solid  rgb(66, 66, 66); 
   
   }
   #caption {
@@ -93,7 +90,7 @@ body{
     top: 30%;
     left: 750px;
     transform: translate(-50%, -50%);
-    background: #fca311;
+    background: #f0a938;
     height: 60px;
     border-radius: 40px;
     padding: 10px;
@@ -114,7 +111,7 @@ body{
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background: #fca311;
+    background:  #f0a938;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -184,4 +181,47 @@ body{
       background-color: rgb(31, 30, 30);
     }
 
-    
+    .title2{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-family: 'Harmattan', sans-serif;
+   padding-left: 30px;
+   
+    }
+    video{
+      margin-top: 100px;
+      margin-right: 120px;
+    }
+
+    section{
+      display: flex;
+      justify-content: space-between;
+     background-color: rgba(0, 0, 0, 0.795);
+     height: 380px;
+     margin-top: 90px;
+     border-radius: 20px;
+     width: 1460px;
+     margin-left: 30px;
+    }
+    .section2{
+      background-image: url(./pic/ct.jpg);
+    }
+    .ul2{
+      
+     background-color: rgba(0, 0, 0, 0.795);
+     height: 380px;
+     border-radius: 20px;
+     width: 1460px;   
+  }
+  .li2{
+    list-style: none;
+    font-size: 25px;
+    color: white;
+    margin-top: 10px;
+   text-align: center;
+   font-family: 'Harmattan', sans-serif;
+  }
+  .hr2{
+    width: 95px;
+  }
+  

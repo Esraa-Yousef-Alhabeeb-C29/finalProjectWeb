@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: #fca311;
+    background-color: #f0a938;
     font-family: 'Harmattan', sans-serif;
   }
   
@@ -16,7 +16,7 @@ body {
   display: flex;
   justify-content: space-around;                          
 }
-.cardcenter {  
+.card1 {  
   width: 400px;
   height: 500px;
   background-color: white;
@@ -27,7 +27,7 @@ body {
   margin-top: 20px;
 
 }
-  .cardcenter2 {
+  .card2 {
     width: 400px;
     height: 500px;
     background-color: white;
@@ -38,7 +38,7 @@ body {
     margin-right: 10px;
     margin-top: 600px;
   }
-  .cardcenter3 {
+  .card3 {
     width: 400px;
     height: 500px;
     background-color: white;

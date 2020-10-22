@@ -1,6 +1,5 @@
 body{
-    background-color: #fca311;
-
+    background-color:  #f0a938;
 }
 img{
     height: 120px;
@@ -26,13 +25,10 @@ h1{
     width: 60px;
     padding: 10px;
     margin-left: 20px;
-   
 }
-
-
-  .cardcenter {  
+  .card {  
     width: 700px;
-    height: 700px;
+    height: 600px;
     background-color: rgba(250, 240, 240, 0.212);
     border-radius: 12px;
     margin: auto;

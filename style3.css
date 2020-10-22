@@ -1,13 +1,17 @@
 body{
-    background-color: #fca311;
+    background-color:#f0a938;
 }
-
-
 h1{
-    font-size: 70px;
+    display: inline-flex;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-size: 50px;
     color: white;
     text-align: center;
     font-family: 'Harmattan', sans-serif;
+    background-color: rgba(0, 0, 0, 0.39);
+    margin-left:550px;
+    border-radius: 30px;
  }
 
  .boxs{
@@ -20,7 +24,7 @@ h1{
     width: 210px;
     margin-top: 70px;
     border-radius: 20px;
-    border: 5px solid  #14213d;                         
+    border: 3px solid  #000000b7;                         
     margin-left:8px;
     padding: 10px;
 }
@@ -44,5 +48,4 @@ p{
     width: 60px;
     padding: 10px;
     margin-left: 20px;
-
 }
